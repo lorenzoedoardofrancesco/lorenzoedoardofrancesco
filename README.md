@@ -35,3 +35,9 @@
 <a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank"><img style="margin: 100px" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="75" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 100px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="75" /></a>  
 </div>
+<br>
+<br>
+
+<p align="center">
+<img src="https://github.com/lorenzoedoardofrancesco/lorenzoedoardofrancesco/blob/main/42Elite.png" width="50%" height="50%">
+</p>
