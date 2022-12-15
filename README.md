@@ -20,8 +20,9 @@
 | 02         | Exam Rank 02  | C                        | [![lsimanic's  42 Exam Rank 02  Score](https://badge42.vercel.app/api/v2/clb7825tg00060fjzin5em8cu/project/2893136)](hhttps://projects.intra.42.fr/projects/exam-rank-02/projects_users/2893136)            |                           |      24/11/2022     |
 | 02         | push_swap     | C                        | [![lsimanic's  42 push_swap  Score](https://badge42.vercel.app/api/v2/clb7825tg00060fjzin5em8cu/project/2890264)](https://projects.intra.42.fr/projects/42cursus-push_swap/projects_users/2890264)          |          ⭐ ⭐ ⭐          |      30/11/2022     |
 | 02         | minitalk      | C                        | [![lsimanic's  42 minitalk  Score](https://badge42.vercel.app/api/v2/clb7825tg00060fjzin5em8cu/project/2900516)](https://projects.intra.42.fr/projects/42cursus-push_swap/projects_users/2890264)           |             ⭐            |      05/12/2022     |
-| 02         | pipex         | C                        | In progress 🚧          |                           |     In progress 🚧    |
-| 02         | so_long         | C                        | In progress 🚧          |                           |     In progress 🚧    |
+| 02         | so_long       | C                        | [![lsimanic's  42 so_long  Score](https://badge42.vercel.app/api/v2/clb7825tg00060fjzin5em8cu/project/2906225)](https://projects.intra.42.fr/projects/42cursus-push_swap/projects_users/2906225)            |            ⭐ ⭐            |      15/12/2022     |
+| 03         | Exam Rank 03  | C                        | In progress 🚧            |                           |     In progress 🚧     |
+| 03         | philosophers  | C                        | In progress 🚧          |                           |     In progress 🚧    |
 </div>
 
 <br>
