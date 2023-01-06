@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lorenzo Edoardo Francesco Simanic</h1>
 
-- 🌱 I am a student developer studying in **42Paris** since 07/11/2022 currently learning **C programming language.**
+- 🌱 I am a student developer currently enrolled at 42Paris, where I have been studying since 07/11/2022. I am currently learning the **C programming language** and am excited to continue developing my skills in this field.
 
 <h1 align="center">My 42 Cursus progress 💻</h1>
 
