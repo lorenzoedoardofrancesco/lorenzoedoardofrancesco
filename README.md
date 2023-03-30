@@ -24,7 +24,7 @@
 | 02         | Exam Rank 03  | C                        | [![lsimanic's  42 Exam Rank 03  Score](https://badge42.vercel.app/api/v2/clb7825tg00060fjzin5em8cu/project/2928755)](https://projects.intra.42.fr/projects/exam-rank-03/projects_users/2928755)            |                           |      23/03/2022     |
 | 03         | Philosophers  | C                        | [![lsimanic's  42 Philosophers  Score](https://badge42.vercel.app/api/v2/clb7825tg00060fjzin5em8cu/project/2915788)](https://projects.intra.42.fr/projects/42cursus-philosophers/projects_users/2915788)    |          ⭐ ⭐ ⭐          |      13/03/2023     |
 | 03         | minishell     | C                        | [![lsimanic's  42 minishell  Score](https://badge42.vercel.app/api/v2/clb7825tg00060fjzin5em8cu/project/2928741)](https://projects.intra.42.fr/projects/42cursus-minishell/projects_users/2928741)          |             ⭐            |      13/03/2023     |
-| 04         | Exam Rank 04  | C                        | In progress 🚧            |                           |     In progress 🚧     | 
+| 04         | Exam Rank 04  | C                        | [![lsimanic's  42 Exam Rank 04  Score](https://badge42.vercel.app/api/v2/clb7825tg00060fjzin5em8cu/project/3050036)](https://projects.intra.42.fr/projects/exam-rank-04/projects_users/3050036)            |                           |      30/03/2022     |
 | 04         | netpractice   | Network & system administration  | In progress 🚧            |                           |     In progress 🚧     | 
 | 04         | cub3d         | C                        | In progress 🚧            |                           |     In progress 🚧     | 
 </div>
