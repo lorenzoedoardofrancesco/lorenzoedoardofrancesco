@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lorenzo Edoardo Francesco Simanic</h1>
 
-- 🌱 I am a student developer currently enrolled at 42Paris, where I have been studying since 07/11/2022. I am currently learning the **C programming language** and am excited to continue developing my skills in this field.
+- 🌱 I am a student developer currently enrolled at 42Paris, where I have been studying since 07/11/2022. I am currently learning the **C++ programming language** and am excited to continue developing my skills in this field.
 
 <h1 align="center">My 42 Cursus progress 💻</h1>
 
@@ -14,7 +14,7 @@
 | **Circle** | **Project**   | **Language**             | **Status**                                                                                                                                                                                                |  **Outstanding Project**  | **Completion Date** |
 |------------|---------------|--------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------:|:-------------------:|
 | 00         | Libft         | C                        | [![lsimanic's 42 Libft Score](https://badge42.vercel.app/api/v2/clb7825tg00060fjzin5em8cu/project/2868498)](https://projects.intra.42.fr/projects/42cursus-libft/projects_users/2868498)                  |             ⭐            |      09/11/2022     |
-| 01         | get_next_line | C                        | [![lsimanic's 42 get_next_line Score](https://badge42.vercel.app/api/v2/clb7825tg00060fjzin5em8cu/project/2872990)](https://projects.intra.42.fr/projects/42cursus-get_next_line/projects_users/2872990)  |             ⭐            |      10/11/2022     |
+| 01         | get_next_line | C                        | [![lsimanic's 42 get_next_line Score](https://badge42.vercel.app/api/v2/clb7825tg00060fjzin5em8cu/project/2872990)](https://projects.intra.42.fr/projects/42cursus-get_next_line/projects_users/2872990)  |             ⭐            |       10/11/2022     |
 | 01         | Born2beroot   | Virtualisation & Network | [![lsimanic's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/clb7825tg00060fjzin5em8cu/project/2876446)](https://projects.intra.42.fr/projects/born2beroot/projects_users/2876446)               |          ⭐ ⭐ ⭐          |      17/11/2022     |
 | 01         | ft_printf     | C                        | [![lsimanic's 42 ft_printf Score](https://badge42.vercel.app/api/v2/clb7825tg00060fjzin5em8cu/project/2881969)](https://projects.intra.42.fr/projects/42cursus-ft_printf/projects_users/2881969)          |             ⭐            |      22/11/2022     |
 | 02         | Exam Rank 02  | C                        | [![lsimanic's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/clb7825tg00060fjzin5em8cu/project/2893136)](https://projects.intra.42.fr/projects/exam-rank-02/projects_users/2893136)             |                           |      24/11/2022     |
@@ -26,8 +26,9 @@
 | 03         | minishell     | C                        | [![lsimanic's 42 minishell Score](https://badge42.vercel.app/api/v2/clb7825tg00060fjzin5em8cu/project/2928741)](https://projects.intra.42.fr/projects/42cursus-minishell/projects_users/2928741)          |             ⭐            |      13/03/2023     |
 | 04         | Exam Rank 04  | C                        | [![lsimanic's 42 Exam Rank 04 Score](https://badge42.vercel.app/api/v2/clb7825tg00060fjzin5em8cu/project/3050036)](https://projects.intra.42.fr/projects/exam-rank-04/projects_users/3050036)             |                           |      30/03/2022     |
 | 04         | NetPractice   | Network & sys admin      | [![lsimanic's 42 NetPractice Score](https://badge42.vercel.app/api/v2/clb7825tg00060fjzin5em8cu/project/3042132)](https://projects.intra.42.fr/projects/netpractice/projects_users/3042132)               |          ⭐ ⭐ ⭐          |      14/04/2023     |
-| 04         | C++ 04        | C++                      | [![lsimanic's 42 CPP Module 04 Score](https://badge42.vercel.app/api/v2/clb7825tg00060fjzin5em8cu/project/3064333)](https://projects.intra.42.fr/projects/cpp-module-03/projects_users/3064333)           |                           |     In progress 🚧     | 
-| 04         | cub3d         | C                        | [![lsimanic's 42 cub3d Score](https://badge42.vercel.app/api/v2/clb7825tg00060fjzin5em8cu/project/3042123)](https://projects.intra.42.fr/projects/cub3d/projects_users/30421223)                          |                           |     In progress 🚧     | 
+| 04         | cub3d         | C                        | [![lsimanic's 42 cub3d Score](https://badge42.vercel.app/api/v2/clb7825tg00060fjzin5em8cu/project/3042123)](https://projects.intra.42.fr/projects/cub3d/projects_users/30421223)                          |            ⭐ ⭐            |      09/05/2023     | 
+| 04         | C++ 00 -> 04  | C++                      | [![lsimanic's 42 CPP Module 04 Score](https://badge42.vercel.app/api/v2/clb7825tg00060fjzin5em8cu/project/3081645)](https://projects.intra.42.fr/projects/cpp-module-03/projects_users/3081645)           |       ⭐ ⭐ ⭐ ⭐ ⭐       |      10/05/2023     | 
+
 </div>
 
 <br>
