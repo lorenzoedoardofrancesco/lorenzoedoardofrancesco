@@ -28,6 +28,9 @@
 | 04         | NetPractice   | Network & sys admin      | [![lsimanic's 42 NetPractice Score](https://badge42.vercel.app/api/v2/clb7825tg00060fjzin5em8cu/project/3042132)](https://projects.intra.42.fr/projects/netpractice/projects_users/3042132)               |          ⭐ ⭐ ⭐          |      14/04/2023     |
 | 04         | cub3d         | C                        | [![lsimanic's 42 cub3d Score](https://badge42.vercel.app/api/v2/clb7825tg00060fjzin5em8cu/project/3042123)](https://projects.intra.42.fr/projects/cub3d/projects_users/3042123)                           |            ⭐ ⭐            |      09/05/2023     | 
 | 04         | C++ 00 -> 04  | C++                      | [![lsimanic's 42 CPP Module 04 Score](https://badge42.vercel.app/api/v2/clb7825tg00060fjzin5em8cu/project/3081645)](https://projects.intra.42.fr/projects/cpp-module-04/projects_users/3081645)           |       ⭐ ⭐ ⭐ ⭐ ⭐       |      10/05/2023     | 
+| 05         | C++ 05 -> 09  | C++                      | [![lsimanic's 42 CPP Module 09 Score](https://badge42.vercel.app/api/v2/clb7825tg00060fjzin5em8cu/project/3141790)](https://projects.intra.42.fr/projects/cpp-module-09/projects_users/3141790)           |          ⭐ ⭐ ⭐          |      08/07/2023     | 
+| 05         | ft_irc        | C++                      | [![lsimanic's 42 CPP ft_irc Score](https://badge42.vercel.app/api/v2/clb7825tg00060fjzin5em8cu/project/3091534)](https://projects.intra.42.fr/projects/ft_irc/projects_users/3091534)                     |          ⭐ ⭐ ⭐          |      01/07/2023     | 
+
 
 </div>
 
