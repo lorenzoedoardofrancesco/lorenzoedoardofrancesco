@@ -31,21 +31,18 @@
 | 05         | C++ 05 -> 09  | C++                      | [![lsimanic's 42 CPP Module 09 Score](https://badge42.vercel.app/api/v2/clb7825tg00060fjzin5em8cu/project/3141790)](https://projects.intra.42.fr/projects/cpp-module-09/projects_users/3141790)           |          ⭐ ⭐ ⭐          |      08/07/2023     | 
 | 05         | ft_irc        | C++                      | [![lsimanic's 42 CPP ft_irc Score](https://badge42.vercel.app/api/v2/clb7825tg00060fjzin5em8cu/project/3091534)](https://projects.intra.42.fr/projects/ft_irc/projects_users/3091534)                     |          ⭐ ⭐ ⭐          |      01/07/2023     | 
 | 05         | Inception     | Docker                   | [![lsimanic's 42 Inception Score](https://badge42.vercel.app/api/v2/clb7825tg00060fjzin5em8cu/project/3134979)](https://projects.intra.42.fr/projects/inception/projects_users/3134979)                   |             ⭐            |      15/09/2023     |
+| 05         | Exam Rank 05  | C++                      | [![lsimanic's 42 Exam Rank 05 Score](https://badge42.vercel.app/api/v2/clb7825tg00060fjzin5em8cu/project/3316272)](https://projects.intra.42.fr/projects/exam-rank-05/projects_users/3316272)             |                           |      19/09/2023     |
 
 </div>
 
 <br>
-<h1 align="center"> 💻 Tech Stack: </h1>
-<div align="center">  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 100px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="75" /></a>  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 100px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="75" /></a>  
-<a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank"><img style="margin: 100px" src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="75" /></a>  
-<a href="https://www.adobe.com/in/products/indesign.html" target="_blank"><img style="margin: 100px" src="https://profilinator.rishav.dev/skills-assets/adobeindesign.svg" alt="Adobe InDesign" height="75" /></a>  
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 100px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="75" /></a>  
-<a href="https://www.adobe.com/in/products/premiere.html" target="_blank"><img style="margin: 100px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="75" /></a>  
-<a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank"><img style="margin: 100px" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="75" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 100px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="75" /></a>  
-</div>
+<h2 align="center"> 💻 Tech Stack: </h1>
+<p align="center">
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,react,nestjs,ts,tailwind,figma,docker,linux,bash,git,ps,pr,ai,ae,blender&perline=6" />
+</a>
+</p>
+
 <br>
 <br>
 
