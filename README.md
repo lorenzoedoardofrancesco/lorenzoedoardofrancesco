@@ -13,6 +13,7 @@ I finished the Common Core the 03/10/2023 and I am currently learning and explor
 
 <div align="center">
   
+# Common Core
 | **Circle** | **Project**      | **Subject**              | **Status**                                                                                                                                |  **Outstanding Project**  | **Completion Date** |
 |------------|------------------|--------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------:|:-------------------:|
 | 00         | Libft            | C                        | [![lsimanic's 42 Libft Score](125_100.png)](https://projects.intra.42.fr/projects/42cursus-libft/projects_users/2868498)                  |             ⭐            |      09/11/2022     |
@@ -37,6 +38,12 @@ I finished the Common Core the 03/10/2023 and I am currently learning and explor
 | 06         | ft_transcendence | Web                      | [![lsimanic's 42 ft_transcendence Score](100_100.png)](https://projects.intra.42.fr/projects/ft_transcendence/projects_users/3322522)     |            ⭐ ⭐            |      21/09/2023     |
 | 06         | Exam Rank 06     | C                        | [![lsimanic's 42 Exam Rank 06 Score](100_100.png)](https://projects.intra.42.fr/projects/exam-rank-03/projects_users/3342418)             |                           |      03/10/2023     |
 
+# Cybersecurity
+| **Project**      | **Subject**              | **Status**                                                                                                                                |   **Outstanding Project**   | **Completion Date** |
+|------------------|--------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------:|:-------------------:|
+| snow-crash       | Security                 | [![lsimanic's 42 snow-crash Score](125_100.png)](https://projects.intra.42.fr/projects/42cursus-snow-crash/projects_users/3346646)        |            ⭐ ⭐           |      10/10/2023     |
+| rainfall         | Security                 | [![lsimanic's 42 rainfall Score](125_100.png)](https://projects.intra.42.fr/projects/42cursus-rainfall/projects_users/3360930)            |            ⭐ ⭐           |      16/10/2023     |
+| override         | Security                 | [![lsimanic's 42 override Score](125_100.png)](https://projects.intra.42.fr/projects/42cursus-override/projects_users/3399932)            |            ⭐ ⭐           |      11/11/2023     |
 </div>
 
 <br>
