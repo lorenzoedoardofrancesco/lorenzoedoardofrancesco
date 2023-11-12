@@ -8,7 +8,7 @@ I finished the Common Core the 03/10/2023 and I am currently learning and explor
 
 <div align="center">
 
-[![lsimanic's 42 stats](https://badge42.vercel.app/api/v2/clb7825tg00060fjzin5em8cu/stats?cursusId=21&coalitionId=48)](https://profile.intra.42.fr/users/lsimanic)
+[![lsimanic's 42 stats](https://badge.mediaplus.ma/darkblue/lsimanic?1337Badge=off&42Network=off&UM6P=off)](https://github.com/oakoudad/badge42)
 </div>
 
 <div align="center">
