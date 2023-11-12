@@ -34,9 +34,9 @@ I finished the Common Core the 03/10/2023 and I am currently learning and explor
 | 05         | C++ 05 -> 09     | C++                      | [![lsimanic's 42 CPP Module 09 Score](100_100.png)](https://projects.intra.42.fr/projects/cpp-module-09/projects_users/3141790)           |          ⭐ ⭐ ⭐          |      08/07/2023     | 
 | 05         | ft_irc           | C++                      | [![lsimanic's 42 CPP ft_irc Score](125_100.png)](https://projects.intra.42.fr/projects/ft_irc/projects_users/3091534)                     |          ⭐ ⭐ ⭐          |      01/07/2023     | 
 | 05         | Inception        | Docker                   | [![lsimanic's 42 Inception Score](125_100.png)](https://projects.intra.42.fr/projects/inception/projects_users/3134979)                   |             ⭐            |      15/09/2023     |
-| 05         | Exam Rank 05     | C++                      | [![lsimanic's 42 Exam Rank 05 Score](100_100.png)](https://projects.intra.42.fr/projects/exam-rank-03/projects_users/2928755)             |                           |      19/09/2023     |
+| 05         | Exam Rank 05     | C++                      | [![lsimanic's 42 Exam Rank 05 Score](100_100.png)](https://projects.intra.42.fr/projects/exam-rank-05/projects_users/3316272)             |                           |      19/09/2023     |
 | 06         | ft_transcendence | Web                      | [![lsimanic's 42 ft_transcendence Score](100_100.png)](https://projects.intra.42.fr/projects/ft_transcendence/projects_users/3322522)     |            ⭐ ⭐            |      21/09/2023     |
-| 06         | Exam Rank 06     | C                        | [![lsimanic's 42 Exam Rank 06 Score](100_100.png)](https://projects.intra.42.fr/projects/exam-rank-03/projects_users/3342418)             |                           |      03/10/2023     |
+| 06         | Exam Rank 06     | C                        | [![lsimanic's 42 Exam Rank 06 Score](100_100.png)](https://projects.intra.42.fr/projects/exam-rank-06/projects_users/3342418)             |                           |      03/10/2023     |
 
 # Cybersecurity
 | **Project**      | **Subject**              | **Status**                                                                                                                                |   **Outstanding Project**   | **Completion Date** |
