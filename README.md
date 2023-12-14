@@ -44,6 +44,8 @@ I finished the Common Core the 03/10/2023 and I am currently learning and explor
 | snow-crash       | Security                 | [![lsimanic's 42 snow-crash Score](125_100.png)](https://projects.intra.42.fr/projects/42cursus-snow-crash/projects_users/3346646)        |            ⭐ ⭐           |      10/10/2023     |
 | rainfall         | Security                 | [![lsimanic's 42 rainfall Score](125_100.png)](https://projects.intra.42.fr/projects/42cursus-rainfall/projects_users/3360930)            |            ⭐ ⭐           |      16/10/2023     |
 | override         | Security                 | [![lsimanic's 42 override Score](125_100.png)](https://projects.intra.42.fr/projects/42cursus-override/projects_users/3399932)            |            ⭐ ⭐           |      11/11/2023     |
+| boot2root        | Security                 | [![lsimanic's 42 override Score](125_100.png)](https://projects.intra.42.fr/projects/42cursus-override/projects_users/3399932)            |             ⭐             |      14/12/2023     |
+
 </div>
 
 <br>
