@@ -46,7 +46,7 @@ I finished the Common Core the 03/10/2023 and I am currently learning and explor
 | override         | Security                 | <a href="https://projects.intra.42.fr/projects/42cursus-override/projects_users/3399932"><img src="125.svg" alt="override Score" width="180"></a>                       | ⭐ ⭐ | 11/11/2023 |
 | boot2root        | Security                 | <a href="https://projects.intra.42.fr/projects/42cursus-boot2root/projects_users/3426590"><img src="125.svg" alt="boot2root Score" width="180"></a>                     | ⭐ | 14/12/2023 |
 
-# Cybersecurity
+# Kernel Development
 | **Project**      | **Subject**              | **Status**                                                                                                                                |   **Outstanding Project**   | **Completion Date** |
 |------------------|--------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------:|:-------------------:|
 | kfs-1            | Kernel / Rust            | <a href="https://projects.intra.42.fr/projects/42cursus-kfs-1/projects_users/3457219"><img src="120.svg" alt="kfs-1 Score" width="180"></a>                             | ⭐ ⭐ | 22/12/2023 |
