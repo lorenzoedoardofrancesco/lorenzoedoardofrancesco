@@ -50,6 +50,9 @@ I finished the Common Core the 03/10/2023 and I am currently learning and explor
 | **Project**      | **Subject**              | **Status**                                                                                                                                |   **Outstanding Project**   | **Completion Date** |
 |------------------|--------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------:|:-------------------:|
 | kfs-1            | Kernel / Rust            | <a href="https://projects.intra.42.fr/projects/42cursus-kfs-1/projects_users/3457219"><img src="120.svg" alt="kfs-1 Score" width="180"></a>                             | ⭐ ⭐ | 22/12/2023 |
+| kfs-2            | Kernel / Rust            | <a href="https://projects.intra.42.fr/projects/42cursus-kfs-2/projects_users/3458808"><img src="118.svg" alt="kfs-2 Score" width="180"></a>                             | ⭐ | 16/01/2024 |
+| kfs-3            | Kernel / Rust            | <a href="https://projects.intra.42.fr/projects/42cursus-kfs-3/projects_users/3480616"><img src="100.svg" alt="kfs-3 Score" width="180"></a>                             | ⭐ | 16/01/2024 |
+| kfs-4            | Kernel / Rust            | <a href="https://projects.intra.42.fr/projects/42cursus-kfs-4/projects_users/3480663"><img src="125.svg" alt="kfs-4 Score" width="180"></a>                             | ⭐ | 16/01/2024 |
 
 </div>
 
