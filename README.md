@@ -39,12 +39,12 @@ I finished the Common Core the 03/10/2023 and I am currently learning and explor
 | 06         | Exam Rank 06     | C                        | <a href="https://projects.intra.42.fr/projects/exam-rank-06/projects_users/3342418"><img src="100.svg" alt="Exam Rank 06 Score" width="180"></a>                      | | 03/10/2023 |
 
 # Cybersecurity
-| **Project**      | **Subject**              | **Status**                                                                                                                                |   **Outstanding Project**   | **Completion Date** |
-|------------------|--------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------:|:-------------------:|
-| snow-crash       | Security                 | <a href="https://projects.intra.42.fr/projects/42cursus-snow-crash/projects_users/3346646"><img src="125.svg" alt="snow-crash Score" width="180"></a>                   | ⭐ ⭐ | 10/10/2023 |
-| rainfall         | Security                 | <a href="https://projects.intra.42.fr/projects/42cursus-rainfall/projects_users/3360930"><img src="125.svg" alt="rainfall Score" width="180"></a>                       | ⭐ ⭐ | 16/10/2023 |
-| override         | Security                 | <a href="https://projects.intra.42.fr/projects/42cursus-override/projects_users/3399932"><img src="125.svg" alt="override Score" width="180"></a>                       | ⭐ ⭐ | 11/11/2023 |
-| boot2root        | Security                 | <a href="https://projects.intra.42.fr/projects/42cursus-boot2root/projects_users/3426590"><img src="125.svg" alt="boot2root Score" width="180"></a>                     | ⭐ | 14/12/2023 |
+| **Project**                                                                                | **Subject**              | **Status**                                                                                                                                                              |   **Outstanding Project**   | **Completion Date** |
+|--------------------------------------------------------------------------------------------|--------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------:|:-------------------:|
+| [snow-crash](https://github.com/lorenzoedoardofrancesco/42Cursus/tree/main/SnowCrash)      | Security                 | <a href="https://projects.intra.42.fr/projects/42cursus-snow-crash/projects_users/3346646"><img src="125.svg" alt="snow-crash Score" width="180"></a>                   | ⭐ ⭐ | 10/10/2023 |
+| [rainfall](https://github.com/lorenzoedoardofrancesco/42Cursus/tree/main/RainFall)         | Security                 | <a href="https://projects.intra.42.fr/projects/42cursus-rainfall/projects_users/3360930"><img src="125.svg" alt="rainfall Score" width="180"></a>                       | ⭐ ⭐ | 16/10/2023 |
+| [override](https://github.com/lorenzoedoardofrancesco/42Cursus/tree/main/OverRide)         | Security                 | <a href="https://projects.intra.42.fr/projects/42cursus-override/projects_users/3399932"><img src="125.svg" alt="override Score" width="180"></a>                       | ⭐ ⭐ | 11/11/2023 |
+| [boot2root](https://github.com/lorenzoedoardofrancesco/42Cursus/tree/main/boot2eoot)       | Security                 | <a href="https://projects.intra.42.fr/projects/42cursus-boot2root/projects_users/3426590"><img src="125.svg" alt="boot2root Score" width="180"></a>                     | ⭐ | 14/12/2023 |
 
 # Kernel Development
 | **Project**      | **Subject**              | **Status**                                                                                                                                |   **Outstanding Project**   | **Completion Date** |
@@ -53,6 +53,14 @@ I finished the Common Core the 03/10/2023 and I am currently learning and explor
 | kfs-2            | Kernel / Rust            | <a href="https://projects.intra.42.fr/projects/42cursus-kfs-2/projects_users/3458808"><img src="118.svg" alt="kfs-2 Score" width="180"></a>                             | ⭐ | 16/01/2024 |
 | kfs-3            | Kernel / Rust            | <a href="https://projects.intra.42.fr/projects/42cursus-kfs-3/projects_users/3480616"><img src="100.svg" alt="kfs-3 Score" width="180"></a>                             | ⭐ | 16/01/2024 |
 | kfs-4            | Kernel / Rust            | <a href="https://projects.intra.42.fr/projects/42cursus-kfs-4/projects_users/3480663"><img src="125.svg" alt="kfs-4 Score" width="180"></a>                             | ⭐ | 16/01/2024 |
+
+# DevOps
+| **Project**                                                                                              | **Subject**              | **Status**                                                                                                                                                              |   **Outstanding Project**   | **Completion Date** |
+|----------------------------------------------------------------------------------------------------------|--------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------:|:-------------------:|
+| [BADASS](https://github.com/lorenzoedoardofrancesco/42Cursus/tree/main/BADASS)                           | DevOps / GNS3            | <a href="https://projects.intra.42.fr/projects/42cursus-snow-crash/projects_users/3346646"><img src="100.svg" alt="snow-crash Score" width="180"></a>                   | ⭐ ⭐ ⭐ | 29/02/2024 |
+| [Inception-of-Things](https://github.com/lorenzoedoardofrancesco/42Cursus/tree/main/Inception-of-Things) | DevOps / Kubernetes      | <a href="https://projects.intra.42.fr/projects/42cursus-rainfall/projects_users/3360930"><img src="125.svg" alt="rainfall Score" width="180"></a>                       | ⭐ ⭐ ⭐ | 21/03/2024 |
+| [cloud-1](https://github.com/lorenzoedoardofrancesco/42Cursus/tree/main/cloud-1)                         | DevOps / Ansible         | <a href="https://projects.intra.42.fr/projects/42cursus-override/projects_users/3399932"><img src="100.svg" alt="override Score" width="180"></a>                       | ⭐ ⭐ ⭐ | 03/04/2024 |
+
 
 </div>
 
