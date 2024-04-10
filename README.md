@@ -68,7 +68,7 @@ I finished the Common Core the 03/10/2023 and I am currently learning and explor
 <h2 align="center"> 💻 Tech Stack: </h1>
 <p align="center">
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,react,nestjs,ts,tailwind,figma,docker,linux,bash,git,ps,pr,ai,ae,blender&perline=6" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,rust,python,js,ts,docker,ansible,aws,kubernetes,linux,bash,git,ps,pr,ai,ae,blender,html,css,react,nestjs,tailwind,figma&perline=6" />
 </a>
 </p>
 
